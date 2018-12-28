@@ -8,7 +8,7 @@ Tpay是微信和支付宝的个人免签 24小时全自动回调支付系统的p
 ### Tpay：全自动，零人工，24小时自动发卡等操作
 ### ------------------------------------我是排版华丽分割线-----------------------------------------------
 ### Tpay：测试地址
- - 本项目已经部署到线下，可以点此在线测试：[点此获取最新版源码和教程](http://www.paohuituan.com/pay) 
+ - 本项目已经部署到线下，可以点此在线测试：[点此获取最新版源码和教程](http://pay.3ks.ltd/) 
  - 视频教程也发布了，熟练后几分钟即可发布：[![Watch the video](http://std.superlist.yaodenglu.com/player_pic.jpg)](http://v.youku.com/v_show/id_XMzg1MjgzNjMzNg==.html)
  - 底部有提供开源客户端，都开源了吧
  
@@ -49,25 +49,18 @@ Tpay是微信和支付宝的个人免签 24小时全自动回调支付系统的p
 
 ### Tpay：服务端
  - 开源的服务端在这里：https://gitee.com/itmad/Tpay_Svr
- - 收款的demo页伸手党们可以：http://www.paohuituan.com/pay 这里下载。
+ - 收款的demo页伸手党们可以：http://pay.3ks.ltd/ 这里下载。
  - PHP纯源码，超级简单粗暴，不太会的可以加群了解。
  
  
 ### Tpay：使用流程
  - 1、安装Xposed框架，不想root的安装virtualxposed也可以。
- - 2、用户下载源码编译安装到手机，不会的可以在这里下载已经编译好的源码：http://www.paohuituan.com/pay
+ - 2、用户下载源码编译安装到手机，不会的可以在这里下载已经编译好的源码：http://pay.3ks.ltd/
  - 3、后台中有一个文件是配置文件，把配置文件中的值设置来和手机一样
  - 4、在xposed中打勾并重启手机后，先后启动微信和支付宝即可。
 
 ### Tpay：技术交流
- - 技术支持：QQ-->315096953
- - 项目测试：http://wwww.paohuituan.com/pay
+ - 技术支持：QQ-->278577745
+ - 项目测试：http://pay.3ks.ltd/
  
- 
-### Tpay：感谢捐赠
-
- ![](http://std.superlist.yaodenglu.com/wechat_pay.png?m=s) 
-
-
- ![](http://std.superlist.yaodenglu.com/alipay_pay.png?m=s)
  
